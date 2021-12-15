@@ -3,7 +3,7 @@
 This speech synthesizer tool is based on python and it converts text into speech
 .This tool is made by Tanushree Sahoo and Aditya Gurav
 
-To Download and Install The Tool:-
+To Download and Run The Tool:-
 
 $ git clone https://github.com/TanushreeSahoo/speech_synthesizer.git
 
